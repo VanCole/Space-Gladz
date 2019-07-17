@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 2a83ba3900a6f7b4a86e18df1efeba2b
+timeCreated: 1517603736
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: hexaTurret:Concept_Turret:pCube11
+    100004: hexaTurret:Concept_Turret:pCube13
+    100006: hexaTurret:Concept_Turret:pCube14
+    100008: hexaTurret:Concept_Turret:pCube16
+    100010: hexaTurret:Concept_Turret:pCube9
+    100012: hexaTurret:Concept_Turret:pCylinder10
+    100014: hexaTurret:Concept_Turret:pCylinder11
+    100016: hexaTurret:Concept_Turret:pCylinder12
+    100018: hexaTurret:Concept_Turret:pCylinder14
+    100020: hexaTurret:Concept_Turret:pCylinder15
+    100022: hexaTurret:Concept_Turret:pCylinder17
+    100024: hexaTurret:Concept_Turret:pCylinder60
+    100026: hexaTurret:Concept_Turret:pCylinder9
+    100028: hexaTurret:Concept_Turret:Tourelle01
+    100030: hexaTurret:group7
+    100032: hexaTurret:pCube1
+    100034: hexaTurret:pCube10
+    100036: hexaTurret:pCube11
+    100038: hexaTurret:pCube11 1
+    100040: hexaTurret:pCube12
+    100042: hexaTurret:pCube13
+    100044: hexaTurret:pCube14
+    100046: hexaTurret:pCube2
+    100048: hexaTurret:pCube3
+    100050: hexaTurret:pCube4
+    100052: hexaTurret:pCube5
+    100054: hexaTurret:pCube6
+    100056: hexaTurret:pCube7
+    100058: hexaTurret:pCube8
+    100060: hexaTurret:pCube9
+    100062: hexaTurret:pCylinder16
+    100064: hexaTurret:pCylinder28
+    100066: hexaTurret:pCylinder31
+    100068: hexaTurret:pCylinder32
+    100070: hexaTurret:pCylinder33
+    100072: hexaTurret:pCylinder34
+    100074: hexaTurret:pCylinder35
+    100076: hexaTurret:transform1
+    100078: hexaTurret:transform10
+    100080: hexaTurret:transform11
+    100082: hexaTurret:transform12
+    100084: hexaTurret:transform13
+    100086: hexaTurret:transform14
+    100088: hexaTurret:transform15
+    100090: hexaTurret:transform16
+    100092: hexaTurret:transform17
+    100094: hexaTurret:transform18
+    100096: hexaTurret:transform19
+    100098: hexaTurret:transform2
+    100100: hexaTurret:transform20
+    100102: hexaTurret:transform21
+    100104: hexaTurret:transform22
+    100106: hexaTurret:transform23
+    100108: hexaTurret:transform24
+    100110: hexaTurret:transform25
+    100112: hexaTurret:transform26
+    100114: hexaTurret:transform27
+    100116: hexaTurret:transform28
+    100118: hexaTurret:transform29
+    100120: hexaTurret:transform3
+    100122: hexaTurret:transform30
+    100124: hexaTurret:transform31
+    100126: hexaTurret:transform32
+    100128: hexaTurret:transform33
+    100130: hexaTurret:transform34
+    100132: hexaTurret:transform35
+    100134: hexaTurret:transform36
+    100136: hexaTurret:transform4
+    100138: hexaTurret:transform5
+    100140: hexaTurret:transform6
+    100142: hexaTurret:transform7
+    100144: hexaTurret:transform8
+    100146: hexaTurret:transform9
+    100148: pCube16
+    100150: Turret
+    400000: //RootNode
+    400002: hexaTurret:Concept_Turret:pCube11
+    400004: hexaTurret:Concept_Turret:pCube13
+    400006: hexaTurret:Concept_Turret:pCube14
+    400008: hexaTurret:Concept_Turret:pCube16
+    400010: hexaTurret:Concept_Turret:pCube9
+    400012: hexaTurret:Concept_Turret:pCylinder10
+    400014: hexaTurret:Concept_Turret:pCylinder11
+    400016: hexaTurret:Concept_Turret:pCylinder12
+    400018: hexaTurret:Concept_Turret:pCylinder14
+    400020: hexaTurret:Concept_Turret:pCylinder15
+    400022: hexaTurret:Concept_Turret:pCylinder17
+    400024: hexaTurret:Concept_Turret:pCylinder60
+    400026: hexaTurret:Concept_Turret:pCylinder9
+    400028: hexaTurret:Concept_Turret:Tourelle01
+    400030: hexaTurret:group7
+    400032: hexaTurret:pCube1
+    400034: hexaTurret:pCube10
+    400036: hexaTurret:pCube11
+    400038: hexaTurret:pCube11 1
+    400040: hexaTurret:pCube12
+    400042: hexaTurret:pCube13
+    400044: hexaTurret:pCube14
+    400046: hexaTurret:pCube2
+    400048: hexaTurret:pCube3
+    400050: hexaTurret:pCube4
+    400052: hexaTurret:pCube5
+    400054: hexaTurret:pCube6
+    400056: hexaTurret:pCube7
+    400058: hexaTurret:pCube8
+    400060: hexaTurret:pCube9
+    400062: hexaTurret:pCylinder16
+    400064: hexaTurret:pCylinder28
+    400066: hexaTurret:pCylinder31
+    400068: hexaTurret:pCylinder32
+    400070: hexaTurret:pCylinder33
+    400072: hexaTurret:pCylinder34
+    400074: hexaTurret:pCylinder35
+    400076: hexaTurret:transform1
+    400078: hexaTurret:transform10
+    400080: hexaTurret:transform11
+    400082: hexaTurret:transform12
+    400084: hexaTurret:transform13
+    400086: hexaTurret:transform14
+    400088: hexaTurret:transform15
+    400090: hexaTurret:transform16
+    400092: hexaTurret:transform17
+    400094: hexaTurret:transform18
+    400096: hexaTurret:transform19
+    400098: hexaTurret:transform2
+    400100: hexaTurret:transform20
+    400102: hexaTurret:transform21
+    400104: hexaTurret:transform22
+    400106: hexaTurret:transform23
+    400108: hexaTurret:transform24
+    400110: hexaTurret:transform25
+    400112: hexaTurret:transform26
+    400114: hexaTurret:transform27
+    400116: hexaTurret:transform28
+    400118: hexaTurret:transform29
+    400120: hexaTurret:transform3
+    400122: hexaTurret:transform30
+    400124: hexaTurret:transform31
+    400126: hexaTurret:transform32
+    400128: hexaTurret:transform33
+    400130: hexaTurret:transform34
+    400132: hexaTurret:transform35
+    400134: hexaTurret:transform36
+    400136: hexaTurret:transform4
+    400138: hexaTurret:transform5
+    400140: hexaTurret:transform6
+    400142: hexaTurret:transform7
+    400144: hexaTurret:transform8
+    400146: hexaTurret:transform9
+    400148: pCube16
+    400150: Turret
+    2300000: //RootNode
+    2300002: Turret
+    3300000: //RootNode
+    3300002: Turret
+    4300000: Concept_Turret:Tourelle04
+    4300002: Turret
+    4300004: group25
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

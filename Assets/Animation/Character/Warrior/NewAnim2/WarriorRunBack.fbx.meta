@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 31e22319c6dd081418e65617a9bff56b
+timeCreated: 1525694653
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group_deformers_Gladiator
+    100004: Group_RIG_Gladiator
+    100006: joint_grapin
+    100008: joint_Out_arm_L_C1_Gladiator
+    100010: joint_Out_arm_L_C2_Gladiator
+    100012: joint_Out_arm_L_C2_twist_Gladiator
+    100014: joint_Out_arm_L_root_Gladiator
+    100016: joint_Out_arm_R_C1_Gladiator
+    100018: joint_Out_arm_R_C2_Gladiator
+    100020: joint_Out_arm_R_C2_twist_Gladiator
+    100022: joint_Out_arm_R_root_Gladiator
+    100024: joint_Out_clavicle_L_C1_Gladiator
+    100026: joint_Out_clavicle_L_root_Gladiator
+    100028: joint_Out_clavicle_R_C1_Gladiator
+    100030: joint_Out_clavicle_R_root_Gladiator
+    100032: joint_Out_index_L_C1_Gladiator
+    100034: joint_Out_index_L_C2_Gladiator
+    100036: joint_Out_index_L_C3_Gladiator
+    100038: joint_Out_index_R_C1_Gladiator
+    100040: joint_Out_index_R_C2_Gladiator
+    100042: joint_Out_index_R_C3_Gladiator
+    100044: joint_Out_leg_L_C1_Gladiator
+    100046: joint_Out_leg_L_C2_Gladiator
+    100048: joint_Out_leg_L_C3_Gladiator
+    100050: joint_Out_leg_L_C4_Gladiator
+    100052: joint_Out_leg_L_root_Gladiator
+    100054: joint_Out_leg_R_C1_Gladiator
+    100056: joint_Out_leg_R_C2_Gladiator
+    100058: joint_Out_leg_R_C3_Gladiator
+    100060: joint_Out_leg_R_C4_Gladiator
+    100062: joint_Out_leg_R_root_Gladiator
+    100064: joint_Out_little_L_C1_Gladiator
+    100066: joint_Out_little_L_C2_Gladiator
+    100068: joint_Out_little_L_C3_Gladiator
+    100070: joint_Out_little_R_C1_Gladiator
+    100072: joint_Out_little_R_C2_Gladiator
+    100074: joint_Out_little_R_C3_Gladiator
+    100076: joint_Out_major_L_C1_Gladiator
+    100078: joint_Out_major_L_C2_Gladiator
+    100080: joint_Out_major_L_C3_Gladiator
+    100082: joint_Out_major_R_C1_Gladiator
+    100084: joint_Out_major_R_C2_Gladiator
+    100086: joint_Out_major_R_C3_Gladiator
+    100088: joint_Out_neck_C1_Gladiator
+    100090: joint_Out_neck_C2_Gladiator
+    100092: joint_Out_neck_C3_Gladiator
+    100094: joint_Out_neck_C4_Gladiator
+    100096: joint_Out_ring_L_C1_Gladiator
+    100098: joint_Out_ring_L_C2_Gladiator
+    100100: joint_Out_ring_L_C3_Gladiator
+    100102: joint_Out_ring_R_C1_Gladiator
+    100104: joint_Out_ring_R_C2_Gladiator
+    100106: joint_Out_ring_R_C3_Gladiator
+    100108: joint_Out_spine_C1_Gladiator
+    100110: joint_Out_spine_C2_Gladiator
+    100112: joint_Out_spine_C3_Gladiator
+    100114: joint_Out_spine_C4_Gladiator
+    100116: joint_Out_spine_C5_Gladiator
+    100118: joint_Out_thumb_L_C1_Gladiator
+    100120: joint_Out_thumb_L_C2_Gladiator
+    100122: joint_Out_thumb_L_C3_Gladiator
+    100124: joint_Out_thumb_R_C1_Gladiator
+    100126: joint_Out_thumb_R_C2_Gladiator
+    100128: joint_Out_thumb_R_C3_Gladiator
+    100130: mesh_base_grappin
+    100132: mesh_Gladiator
+    100134: mesh_hook
+    100136: mesh_mun_grappin
+    100138: mesh_trident1
+    400000: //RootNode
+    400002: Group_deformers_Gladiator
+    400004: Group_RIG_Gladiator
+    400006: joint_grapin
+    400008: joint_Out_arm_L_C1_Gladiator
+    400010: joint_Out_arm_L_C2_Gladiator
+    400012: joint_Out_arm_L_C2_twist_Gladiator
+    400014: joint_Out_arm_L_root_Gladiator
+    400016: joint_Out_arm_R_C1_Gladiator
+    400018: joint_Out_arm_R_C2_Gladiator
+    400020: joint_Out_arm_R_C2_twist_Gladiator
+    400022: joint_Out_arm_R_root_Gladiator
+    400024: joint_Out_clavicle_L_C1_Gladiator
+    400026: joint_Out_clavicle_L_root_Gladiator
+    400028: joint_Out_clavicle_R_C1_Gladiator
+    400030: joint_Out_clavicle_R_root_Gladiator
+    400032: joint_Out_index_L_C1_Gladiator
+    400034: joint_Out_index_L_C2_Gladiator
+    400036: joint_Out_index_L_C3_Gladiator
+    400038: joint_Out_index_R_C1_Gladiator
+    400040: joint_Out_index_R_C2_Gladiator
+    400042: joint_Out_index_R_C3_Gladiator
+    400044: joint_Out_leg_L_C1_Gladiator
+    400046: joint_Out_leg_L_C2_Gladiator
+    400048: joint_Out_leg_L_C3_Gladiator
+    400050: joint_Out_leg_L_C4_Gladiator
+    400052: joint_Out_leg_L_root_Gladiator
+    400054: joint_Out_leg_R_C1_Gladiator
+    400056: joint_Out_leg_R_C2_Gladiator
+    400058: joint_Out_leg_R_C3_Gladiator
+    400060: joint_Out_leg_R_C4_Gladiator
+    400062: joint_Out_leg_R_root_Gladiator
+    400064: joint_Out_little_L_C1_Gladiator
+    400066: joint_Out_little_L_C2_Gladiator
+    400068: joint_Out_little_L_C3_Gladiator
+    400070: joint_Out_little_R_C1_Gladiator
+    400072: joint_Out_little_R_C2_Gladiator
+    400074: joint_Out_little_R_C3_Gladiator
+    400076: joint_Out_major_L_C1_Gladiator
+    400078: joint_Out_major_L_C2_Gladiator
+    400080: joint_Out_major_L_C3_Gladiator
+    400082: joint_Out_major_R_C1_Gladiator
+    400084: joint_Out_major_R_C2_Gladiator
+    400086: joint_Out_major_R_C3_Gladiator
+    400088: joint_Out_neck_C1_Gladiator
+    400090: joint_Out_neck_C2_Gladiator
+    400092: joint_Out_neck_C3_Gladiator
+    400094: joint_Out_neck_C4_Gladiator
+    400096: joint_Out_ring_L_C1_Gladiator
+    400098: joint_Out_ring_L_C2_Gladiator
+    400100: joint_Out_ring_L_C3_Gladiator
+    400102: joint_Out_ring_R_C1_Gladiator
+    400104: joint_Out_ring_R_C2_Gladiator
+    400106: joint_Out_ring_R_C3_Gladiator
+    400108: joint_Out_spine_C1_Gladiator
+    400110: joint_Out_spine_C2_Gladiator
+    400112: joint_Out_spine_C3_Gladiator
+    400114: joint_Out_spine_C4_Gladiator
+    400116: joint_Out_spine_C5_Gladiator
+    400118: joint_Out_thumb_L_C1_Gladiator
+    400120: joint_Out_thumb_L_C2_Gladiator
+    400122: joint_Out_thumb_L_C3_Gladiator
+    400124: joint_Out_thumb_R_C1_Gladiator
+    400126: joint_Out_thumb_R_C2_Gladiator
+    400128: joint_Out_thumb_R_C3_Gladiator
+    400130: mesh_base_grappin
+    400132: mesh_Gladiator
+    400134: mesh_hook
+    400136: mesh_mun_grappin
+    400138: mesh_trident1
+    2300000: mesh_base_grappin
+    2300002: mesh_mun_grappin
+    2300004: mesh_trident1
+    3300000: mesh_base_grappin
+    3300002: mesh_mun_grappin
+    3300004: mesh_trident1
+    4300000: mesh_trident1
+    4300002: mesh_Gladiator
+    4300004: mesh_base_grappin
+    4300006: mesh_mun_grappin
+    7400000: WarriorRunBack
+    9500000: //RootNode
+    13700000: mesh_Gladiator
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: WarriorRunBack
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.18
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d272bfa4bd3f68e4ca0244f79d77237f,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

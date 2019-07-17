@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f0e2245b9fb955842b973362273a04bd
+timeCreated: 1517409844
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - harpoon: {fileID: 1598550883660774, guid: 4a889c720cf9d0f4e8dc2374988e1d59, type: 2}
+  - maulHitbox: {fileID: 1318315108365786, guid: a9b99e0e6f9648c4db4089ed253aadd1,
+      type: 2}
+  - attackHitbox: {fileID: 1388238548255346, guid: 3313f2febb8dc0d4e9ca4d3974dd95f0,
+      type: 2}
+  - furiousThrow: {fileID: 1213707127103846, guid: 835ff196f86b06b4799391834ca05eb8,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
