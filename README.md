@@ -1,31 +1,34 @@
 # Space-Gladz
 
-May 2018
+Space Gladz is a Multiplayer Battle Arena, pc game made with Unity.
 
-Subject:
+### Synopsis
+At that time, gladiator fights became the main attraction of the planet XGP-0025.\
+You play one of these gladiators and will fight for your freedom.
 
--   Battle Arena
+### Description
+This game was made during the second year of Créajeux cursus.
 
-Situation:
+### Time
+May 2018\
+Made in 4 months.
 
--   Final Project (in group) of the second year of video game programming formation
+### Unity Engine Version
+2017.1.1f1 (64-bit).
 
-Time:
+### Additional Informations
+- 2 - 4 players\
+- Playable on one PC or on Local Network\
+- Playable with controller (XBOX) or without (keyboard, mouse)
 
--   Made in 4 months.
+### Development Team
+#### Graphism
+Alexandre Rivollier : Lead Graph, UI, Level design, Ligthing\
+Jérémy Larivière : Characters, Animations
 
-Engine:
-
--   Unity.
-
-Version:
-
--   2017.1.1f1 (64-bit).
-
-Additional Informations:
-
--   2 - 4 players
-
--   Playable on one PC or on Local Network
-
--   Playable with controller (XBOX) or without (keyboard, mouse)
+#### Programing
+Benoît Pelletier : Lead Prog, Map Generation and Events, Shaders, Data Managing\
+Fabian Degeilh : Network\
+Vincent Colin : Bonus, Archer Character, Sounds\
+Fabien Ouvré : UI, Warrior Character, Events, Robot\
+Jordan Martinez AKA Jeff Manson : Project Lead, Animations, Trailer
