@@ -17,8 +17,8 @@ Made in 4 months.
 2017.1.1f1 (64-bit).
 
 ### Additional Informations
-- 2 - 4 players\
-- Playable on one PC or on Local Network\
+- 2 - 4 players
+- Playable on one PC or on Local Network
 - Playable with controller (XBOX) or without (keyboard, mouse)
 
 ### Development Team
